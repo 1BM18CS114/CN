@@ -1,0 +1,4 @@
+Configure the default route to move packets to the connecting routers
+from current network
+
+We tested it by sending ping messages from one network to another network
