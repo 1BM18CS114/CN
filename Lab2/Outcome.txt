@@ -1,0 +1,8 @@
+We connected 2 or more networks together by configuring default route to a different route statically
+
+This is so we can fix:
+- Request timed out messages
+- Destination unreachable messages
+
+To achieve:
+- Ping a computer in another network
